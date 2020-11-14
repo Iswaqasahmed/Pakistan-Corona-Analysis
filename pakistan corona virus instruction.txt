@@ -1,0 +1,22 @@
+Data Explanation:
+
+The dataset contains seven columns for date, number of cases, number of deaths, number of people recovered, travel history of those cases, and location of the cases (province and city).
+
+The first version has the data from first case of February 26 2020 to April 19, 2020. We intend to publish weekly updates
+
+
+
+Inspiration
+
+Some ideas worth exploring:
+Can we find the spread factor for the Corona virus in Pakistan?
+How long it takes for a positive case to infect another in Pakistan?
+How we can use this data to simulate lock down scenarios and find its impact on country's economy? Here is a good read to get started 
+
+Extra Task
+
+What would be the impact of this infection spread on country's economy and people living under poverty? Here are two briefs to get you started
+
+
+
+Can we predict the number of cases in next 10 days and a month?
